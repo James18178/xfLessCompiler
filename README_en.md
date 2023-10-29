@@ -111,7 +111,7 @@ If you want to change the ip address/port number, do so in bin/less_cgi.dart
 
 ## Software effect display
 
-** Environment Introduction: **
+**Environment Introduction: **
 - Xenforo V2.2
 - PHP V4.7
 - NGINX
